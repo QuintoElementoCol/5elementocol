@@ -1,0 +1,2 @@
+Guarde aquí los logos de clientes (formato WebP o SVG, fondo transparente, unos 320 x 128 px).
+Use solo logos con autorización escrita del cliente. Ver instrucciones en clientes.html y README.md.
